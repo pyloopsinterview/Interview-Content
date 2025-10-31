@@ -321,5 +321,3 @@ print("Output:", output_list)
 | --------------- | ------------ | --------------------------- |
 | **Time**        | **O(n × m)** | Each string processed fully |
 | **Space**       | **O(n × m)** | Output + temp vowel storage |
-
-## ✅ Done!
