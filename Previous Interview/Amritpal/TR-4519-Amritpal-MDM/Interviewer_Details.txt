@@ -1,0 +1,4 @@
+Profile:- Amrit, (Shubham)
+Interviewer name :- 1. Radcliffe, Gene, 2. Mandrake, Jeffery, 3. Kurra, Kranthi
+
+Senior Python Engineer
