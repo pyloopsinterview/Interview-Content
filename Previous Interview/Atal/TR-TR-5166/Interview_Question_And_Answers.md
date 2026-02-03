@@ -1,0 +1,31 @@
+# Interview Questions Asked
+
+- Introduction of your experience and current project
+- Is this role primarily backend development?
+- Explain your experience with frontend and DevOps
+- Discuss the most challenging task you have worked on
+- Explain the architecture of your application
+- How does frontend communicate with backend services?
+- How do you deploy services across different zones?
+- Are you familiar with microservices architectural patterns?
+- Explain the API Gateway pattern
+- How do you register or remove services in an API Gateway?
+- What is a service mesh or mesh network?
+- What does the sidecar pattern mean?
+- Is sidecar a microprocessor system or architectural pattern?
+- Which Java collections do you usually use?
+- What are LinkedHashMap and LinkedHashSet?
+- What is the difference between LinkedHashMap and LinkedHashSet?
+- Explain collisions and rehashing (inflation) in Java collections
+- How do you make objects immutable in Java?
+- Explain Java collections hierarchy
+- Where are objects stored in Java memory?
+- Explain Java memory areas (heap, stack, metaspace, etc.)
+- Review this pull request – would you approve it?
+- What problems do you see in this code?
+- How would you fix the validation logic?
+- What else must be changed besides validation?
+- What should be passed to the repository instead of getAll()?
+- Explain Reactor validation test prototype
+- Fix validation in the given code
+- Finalize the corrected version of the code
