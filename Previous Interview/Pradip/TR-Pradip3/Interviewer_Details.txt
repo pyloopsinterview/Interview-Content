@@ -1,0 +1,5 @@
+Profile Name:- Pradip (Devashish)
+
+Interviewer Name:- Interviewer28@cogbee.io
+
+Develop and customize Dynamics 365 CRM components (entities, forms, views, business rules, dashboards).
