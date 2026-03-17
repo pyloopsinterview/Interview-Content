@@ -1,0 +1,4 @@
+Screening Detail - (Shubham)
+Interviewer Name :- 1. Douglas Bradsher, 2. Aliny Knupp
+
+Specialty Software Engineer (Python | Conda | GitOps | CI/CD)
