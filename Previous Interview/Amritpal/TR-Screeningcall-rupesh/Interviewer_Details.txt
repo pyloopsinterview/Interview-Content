@@ -1,0 +1,4 @@
+Profile:- Amrit, (Rupesh)
+Interviewer name :- 1. Rajat Sharma, 2.Oudaya Carounanidy
+Job Title: Full-Stack Engineer (Python)
+ 

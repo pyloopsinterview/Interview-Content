@@ -1,0 +1,4 @@
+Profile Name :- Mayank, (Raj)
+Interviewer Name:- 1. Tamara Agudin
+
+Lead design, development, and deployment of Generative AI, LLM

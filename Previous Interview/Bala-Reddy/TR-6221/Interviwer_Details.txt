@@ -1,0 +1,7 @@
+Profile Name: Bala Reddy (Arbaz)
+
+Interviewer Name:- 1. Chandra karubuktha-TekWissen 2. Abhishek
+
+Seeking a hands-on AI Native Software Engineer to design, build, and deploy production-grade
+AI-driven systems within enterprise environments. The role focuses on implementing agent-based
+workflows, integrating AI platforms, and delivering scalable cloud-native solutions.

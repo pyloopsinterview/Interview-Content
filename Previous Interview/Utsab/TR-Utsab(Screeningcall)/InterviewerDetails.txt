@@ -1,0 +1,27 @@
+Profile Name:- Utsab (Shubham) 
+
+Interviewer Name:- 1.Brondon Croci,
+
+Core Technologies (Must-Have)
+Python
+Django
+Django REST Framework
+Full‑stack experience
+Backend emphasis
+Frontend support required (TypeScript + React)
+Backend Focus (Higher Priority)
+Distributed systems & complex backend workflows
+System design & architectural decision-making
+Ownership of critical services touching:
+Genetic interpretation
+Lab workflows
+Reporting
+Order/catalog lifecycle
+Cloud & Platform
+AWS-native environment
+Deployed on top of Invitae’s internal platform tooling
+Strong abstractions provided by platform team
+Single-click deployments
+AWS knowledge preferred
+Deep infrastructure / Terraform is nice-to-have, not required
+Frontend

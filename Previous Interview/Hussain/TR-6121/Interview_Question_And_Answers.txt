@@ -1,0 +1,204 @@
+# Hussain Mohammed - Interview Q&A
+
+## 1. Which year did you come to the United States?
+**Answer:**
+I came to the United States in 2014 to pursue my Master’s degree in Computer Science, which I completed in 2017.
+
+---
+
+## 2. Do you have H1B status?
+**Answer:**
+Yes, I am currently on H1B.
+
+---
+
+## 3. Any complex API in your recent project?
+**Answer:**
+Yes, in my current project, I worked on a complex payment reconciliation API.  
+This API aggregates transaction data from multiple systems like billing, claims, and payment platforms.
+
+It involves:
+- Data normalization from multiple sources  
+- High-volume processing (millions of records)  
+- Reconciliation logic (expected vs actual payments)  
+- Asynchronous processing using AWS Lambda and Step Functions  
+
+---
+
+## 4. What is your team size?
+**Answer:**
+My current team size is around 8 to 9 members, including backend developers, frontend developers, and data engineers.
+
+---
+
+## 5. Do you have offshore team experience?
+**Answer:**
+Yes, in my current project, we follow an onsite-offshore model.  
+The onsite team works closely with stakeholders, while the offshore team (based in India) handles development tasks like APIs, ETL pipelines, and frontend work.
+
+---
+
+## 6. Is your product global?
+**Answer:**
+No, the product is not global.  
+It is an internal enterprise platform used within the United States for healthcare financial operations.
+
+---
+
+## 7. Which countries are using your product?
+**Answer:**
+The product is used only in the United States.  
+It is designed specifically for US healthcare finance and operations teams.
+
+---
+
+## 8. Have you done any POCs?
+**Answer:**
+Yes, I have worked on multiple POCs.
+
+Examples include:
+- AWS Step Functions and Lambda for ETL orchestration  
+- AI-assisted development workflows  
+- Performance optimization strategies  
+
+---
+
+## 9. Which AI tools have you used?
+**Answer:**
+I have used AI tools like Claude AI to assist with:
+- Unit test generation  
+- Code documentation  
+- Code review suggestions  
+
+---
+
+## 10. What was the purpose of using AI tools?
+**Answer:**
+The main purpose was to:
+- Improve developer productivity  
+- Reduce manual effort  
+- Speed up POC development  
+- Assist in code quality and documentation  
+
+---
+
+## 11. What are the advantages of ORM?
+**Answer:**
+- Improves developer productivity (no need for raw SQL)  
+- Provides database abstraction  
+- Enhances code readability and maintainability  
+- Protects against SQL injection  
+- Supports migrations and relationship handling  
+
+---
+
+## 12. What is Django QuerySet?
+**Answer:**
+QuerySet is a Django ORM feature used to interact with the database.
+
+Advantages:
+- Lazy evaluation (improves performance)  
+- Query chaining for complex queries  
+- Cleaner and more readable code  
+- Integration with Django models  
+
+---
+
+## 13. Have you worked with React?
+**Answer:**
+Yes, I have worked with React for building frontend dashboards and user interfaces.
+
+---
+
+## 14. How do you design a responsive UI?
+**Answer:**
+- Follow mobile-first approach  
+- Use Flexbox/Grid for layout  
+- Apply media queries for breakpoints  
+- Build reusable components  
+- Perform cross-device testing  
+
+---
+
+## 15. How do you integrate React with Django?
+**Answer:**
+- Django exposes REST APIs  
+- React consumes APIs via HTTP calls  
+- Use JWT/token-based authentication  
+- Handle CORS configuration  
+- Maintain separation between frontend and backend  
+
+---
+
+## 16. How do you develop APIs? Do you use Lambda?
+**Answer:**
+- Use Django REST Framework for core APIs  
+- Use AWS Lambda for asynchronous or heavy processing  
+- Follow hybrid architecture based on use case  
+- Use Step Functions for orchestration  
+
+---
+
+## 17. How do you handle financial data securely?
+**Answer:**
+- Encrypt data in transit and at rest  
+- Use role-based access control  
+- Validate all inputs  
+- Maintain audit logs  
+- Use secure coding practices  
+- Ensure idempotency for transactions  
+
+---
+
+## 18. What libraries and process do you use for financial data?
+**Answer:**
+Process:
+- Secure API layer (Django REST)  
+- Data validation  
+- Business logic processing  
+- Database transactions  
+
+Libraries:
+- Decimal for precise calculations  
+- Django ORM for database operations  
+- Logging frameworks for auditing  
+
+---
+
+## 19. How do you integrate AI with Python pipelines?
+**Answer:**
+- Use Python as orchestration layer  
+- Integrate AI tools via REST APIs  
+- Send processed data to AI  
+- Receive response and continue pipeline  
+- Use async calls, retries, and logging  
+
+---
+
+## 20. Do you have cloud experience?
+**Answer:**
+Yes, I have around 4 to 4.5 years of experience with AWS.
+
+---
+
+## 21. How have you used cloud?
+**Answer:**
+- S3 for storage  
+- Lambda for serverless processing  
+- RDS for databases  
+- Step Functions for workflows  
+- API Gateway for APIs  
+
+---
+
+## 22. Where are you based?
+**Answer:**
+I am based in Alpharetta, Georgia.
+
+---
+
+## 23. Are you open to onsite (1 week initial)?
+**Answer:**
+Due to family health responsibilities, I may not be able to stay onsite for a full week immediately.  
+However, I am open to short travel if needed and can fully start remotely.  
+I can support onsite visits once things stabilize.

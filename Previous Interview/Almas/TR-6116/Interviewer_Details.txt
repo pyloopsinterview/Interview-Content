@@ -1,0 +1,4 @@
+this is screening round
+profile: Almas  (Rupesh)
+Interviewer Details:- 1. Arvind Sinha, 2. Y. Sai Kumar
+Tittle:- Python Developer with AI/ML
