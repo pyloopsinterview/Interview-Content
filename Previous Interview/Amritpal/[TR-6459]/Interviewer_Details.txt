@@ -1,0 +1,9 @@
+
+Profile:- Amrit, (Rupesh)
+Interviewer name :- 1. Plankey,ketie
+
+The Role:-MUST HAVE:
+FastAPI
+Python
+Django and Flask
+AWS 
