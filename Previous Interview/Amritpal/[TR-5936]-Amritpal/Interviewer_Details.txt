@@ -1,0 +1,5 @@
+
+Profile:- Amrit, (Raj Upadhyay)
+Interviewer name :- 1. Chaudhar, shivam 2. Sharma, abhay kumar
+
+technologies include AWS, Kubernetes, Kafka, Python, Vue.js, and GitHub/GitLab.
