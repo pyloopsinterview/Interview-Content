@@ -1,0 +1,4 @@
+Profile:- Santosh Raj Onta (devashish))
+Interviewer:- 1. Nolan Carney 2. Habeh, Abe
+ 
+ Dynamics 365 development
