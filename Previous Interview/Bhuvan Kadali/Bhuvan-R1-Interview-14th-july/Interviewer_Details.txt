@@ -1,0 +1,4 @@
+Profile Name:- Bhuvan Chandra Kadali(Devashish)
+Interviewer Name:- 1. Gabriela Rocha
+
+The Stack: Python, Databricks, MLOps 
